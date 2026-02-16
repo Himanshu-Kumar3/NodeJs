@@ -1,0 +1,26 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "- JS runtime environment \r   - Builts on the google chrome's V8 engine\r   - runs JS outside of the browser",
+  "homepage": "https://github.com/Himanshu-Kumar3/NodeJs#readme",
+  "bugs": {
+    "url": "https://github.com/Himanshu-Kumar3/NodeJs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Himanshu-Kumar3/NodeJs.git"
+  },
+  "license": "ISC",
+  "author": "Himanshu Kumar",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "mongodb": "^7.1.0",
+    "mongoose": "^9.2.1"
+  },
+  "devDependencies": {}
+}

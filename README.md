@@ -21,3 +21,15 @@
    - globalThis 
      - central global object
      - points to global object in all the browser (V8 ,nodeJS ...)
+
+
+
+
+# MongoDB installation
+ - Goto mongoDB website
+ - login / sign in 
+ - create a free MO cluster
+ - create a user
+ - Get the connection string from :- Compass
+
+ - Install mongoDB compass -> GUI for the mongoDB
