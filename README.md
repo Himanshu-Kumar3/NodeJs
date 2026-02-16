@@ -33,3 +33,7 @@
  - Get the connection string from :- Compass
 
  - Install mongoDB compass -> GUI for the mongoDB
+
+ - mongodb atlas is not working for me so i have used -> mongodb community server
+
+ - get and insert data using collection class
